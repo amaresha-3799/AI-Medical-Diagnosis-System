@@ -1,6 +1,5 @@
 # AI-Agents-for-Medical-Diagnostics
 
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/b7c87bf6-dfff-42fe-b8d1-9be9e6c7ce86">
 
 A Python project that creates specialized **LLM-based AI agents** to analyze complex medical cases.  
 The system integrates insights from different medical specialists to provide comprehensive assessments  
